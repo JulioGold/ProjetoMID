@@ -18,3 +18,7 @@ https://www.outilsobdfacile.com
 
 Criando CB Vectra/Astra Arduino+Display 5¨  
 https://www.youtube.com/watch?v=CW3Dd_D28I0
+  
+Bom site para criar protótipos com o arduino  
+http://fritzing.org
+  
